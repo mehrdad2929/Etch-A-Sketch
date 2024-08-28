@@ -1,0 +1,4 @@
+1.how to create square div
+2.16 rows each containing 16 square(using flex box)
+3.hover
+4.do it for more than 16(up to 100)
